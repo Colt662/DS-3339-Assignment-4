@@ -1,5 +1,11 @@
 # Data Structures Showdown
 
+## Origin
+
+This project was made for a Data Structures class and is intended to showcase the ability to select between data structures for different problems.
+
+## Original Instructions 
+
 You've built data structures before, but now it's time to make decisions like an engineer. This unit challenges you to apply what you’ve learned across lists, sets, linked lists, stacks, and queues to real-world problems—while also thinking about performance.
 
 In this assignment, you’ll complete two components:
